@@ -18,8 +18,8 @@ To implement the Rat in a Maze problem using backtracking and find all possible 
 ```
 # Program to implement Rat in a Maze
 
-# DEVELOPED BY: Ann Blessy Philips
-# REGISTER NUMBER : 212222040008
+# DEVELOPED BY: Naveen Kumar P
+# REGISTER NUMBER : 212222230092
 
 N = 4
  
