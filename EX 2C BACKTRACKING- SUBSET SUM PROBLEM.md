@@ -20,9 +20,8 @@ To demonstrate that the sum of the subset of a given set is equal to the given s
 ```
 # Program to implement Subset sum problem
 
-# DEVELOPED BY: Ann Blessy Philips
-# REGISTER NUMBER : 212222040008
-
+# DEVELOPED BY: Naveen Kumar P
+# REGISTER NUMBER : 212222230092
 from itertools import combinations;
 
 def subsetSum(n, arr, x):
