@@ -20,9 +20,8 @@ To solve the N-Queen problem using backtracking, which places N queens on an N*N
 ```
 # Program to implement N-Queen problem using backtracking
 
-# DEVELOPED BY: Ann Blessy Philips
-# REGISTER NUMBER: 212222040008
-
+# DEVELOPED BY: Naveen Kumar P
+# REGISTER NUMBER : 212222230092
 global N
 N = int(input())
  
